@@ -1,0 +1,7 @@
+C:\Users\oshiqqq\OneDrive\Рабочий стол\charp\MathFunc\MathFunc\bin\Debug\MathFunc.exe.config
+C:\Users\oshiqqq\OneDrive\Рабочий стол\charp\MathFunc\MathFunc\bin\Debug\MathFunc.exe
+C:\Users\oshiqqq\OneDrive\Рабочий стол\charp\MathFunc\MathFunc\bin\Debug\MathFunc.pdb
+C:\Users\oshiqqq\OneDrive\Рабочий стол\charp\MathFunc\MathFunc\obj\Debug\MathFunc.csproj.AssemblyReference.cache
+C:\Users\oshiqqq\OneDrive\Рабочий стол\charp\MathFunc\MathFunc\obj\Debug\MathFunc.csproj.CoreCompileInputs.cache
+C:\Users\oshiqqq\OneDrive\Рабочий стол\charp\MathFunc\MathFunc\obj\Debug\MathFunc.exe
+C:\Users\oshiqqq\OneDrive\Рабочий стол\charp\MathFunc\MathFunc\obj\Debug\MathFunc.pdb
